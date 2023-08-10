@@ -1,6 +1,6 @@
 name: detect_fake_location_plus
 description: "A Flutter plugin for detecting if location is being simulated or faked"
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/supermebing/detect_fake_location_plus
 
 environment:
