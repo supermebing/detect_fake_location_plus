@@ -1,25 +1,25 @@
 PODS:
-  - detect_fake_location (0.0.1):
+  - detect_fake_location_plus (1.0.1):
     - Flutter
   - Flutter (1.0.0)
   - permission_handler_apple (9.1.1):
     - Flutter
 
 DEPENDENCIES:
-  - detect_fake_location (from `.symlinks/plugins/detect_fake_location/ios`)
+  - detect_fake_location_plus (from `.symlinks/plugins/detect_fake_location_plus/ios`)
   - Flutter (from `Flutter`)
   - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
 
 EXTERNAL SOURCES:
-  detect_fake_location:
-    :path: ".symlinks/plugins/detect_fake_location/ios"
+  detect_fake_location_plus:
+    :path: ".symlinks/plugins/detect_fake_location_plus/ios"
   Flutter:
     :path: Flutter
   permission_handler_apple:
     :path: ".symlinks/plugins/permission_handler_apple/ios"
 
 SPEC CHECKSUMS:
-  detect_fake_location: 67ba415c979cabbb79db9b34327073b77326027b
+  detect_fake_location_plus: ce2856bd2e5d1ff055e3e62160aae262bf258045
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   permission_handler_apple: e76247795d700c14ea09e3a2d8855d41ee80a2e6
 
