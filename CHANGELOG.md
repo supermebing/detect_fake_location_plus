@@ -9,3 +9,7 @@
 ## 1.0.0
 
 - fix
+
+## 1.0.1
+
+- fix ios pod name error
