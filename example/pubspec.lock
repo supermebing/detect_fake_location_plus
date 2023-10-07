@@ -52,9 +52,10 @@ packages:
   detect_fake_location_plus:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: detect_fake_location_plus
+      sha256: "24070bebc01ff3315a6338c7b9acb4866871de3751d07a68f522cc50d418fa1f"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
     version: "1.0.3+1"
   fake_async:
     dependency: transitive
@@ -123,7 +124,7 @@ packages:
     source: hosted
     version: "1.8.3"
   permission_handler:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: permission_handler
       sha256: "284a66179cabdf942f838543e10413246f06424d960c92ba95c84439154fcac8"
