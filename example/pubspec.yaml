@@ -17,14 +17,14 @@ dependencies:
   flutter:
     sdk: flutter
 
-  detect_fake_location_plus:
-    # When depending on this package from a real application you should use:
-    #   detect_fake_location: ^x.y.z
-    # See https://dart.dev/tools/pub/dependencies#version-constraints
-    # The example app is bundled with the plugin so we use a path dependency on
-    # the parent directory to use the current plugin's version.
-    path: ../
+  # detect_fake_location_plus:
+  #   # When depending on this package from a real application you should use:
 
+  #   # See https://dart.dev/tools/pub/dependencies#version-constraints
+  #   # The example app is bundled with the plugin so we use a path dependency on
+  #   # the parent directory to use the current plugin's version.
+  #   path: ../
+  detect_fake_location_plus: ^1.0.3+1
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.5
