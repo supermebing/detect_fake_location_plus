@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'detect_fake_location_plus'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'A new Flutter plugin project.'
   s.description      = <<-DESC
 A new Flutter plugin project.

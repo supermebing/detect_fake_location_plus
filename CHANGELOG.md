@@ -25,3 +25,6 @@
 ## 1.0.3+1
 
 - fix ios pod name error
+## 1.0.4
+
+- update 
