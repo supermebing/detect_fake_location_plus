@@ -28,3 +28,7 @@
 ## 1.0.4
 
 - update 
+
+## 1.0.5
+
+- update permission_handler to 12.0.1
