@@ -1,6 +1,6 @@
 name: detect_fake_location_plus
 description: "A Flutter plugin for detecting if location is being simulated or faked"
-version: 1.0.4+1
+version: 1.0.5
 homepage: https://github.com/supermebing/detect_fake_location_plus
 
 environment:
@@ -11,12 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
   plugin_platform_interface: ^2.1.8
-  permission_handler: ^11.3.1
+  permission_handler: ^12.0.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
